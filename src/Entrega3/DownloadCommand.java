@@ -1,7 +1,7 @@
 package Entrega3;
 import java.util.ArrayList;
 import java.util.List;
-
+import Entrega4.Media;
 public class DownloadCommand implements Command {
     private Media media;
 
